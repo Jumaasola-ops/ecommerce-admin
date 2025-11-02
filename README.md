@@ -22,7 +22,7 @@ The e-commerce admin dashboard is a user interface specifically designed to mana
 
 ```shell
 git clone https://github.com/inifarhan/ecommerce-admin.git
-```
+
 
 ### Install packages
 
